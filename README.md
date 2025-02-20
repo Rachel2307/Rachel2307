@@ -14,7 +14,7 @@
 
 😄 Pronouns: she/hers </br>
 📫 Contact me: rachelho2307@gmail.com </br>
-📄 Know about my experiences: [https://www.linkedin.com/in/ngoc-thanh-uyen-ho/](https://www.linkedin.com/in/ngoc-thanh-uyen-ho/) </br>
+📄 Know about my experiences: https://www.linkedin.com/in/ngoc-thanh-uyen-ho/ </br>
 
 
 <h2 align="left">🌐 Connect with me</h2>
