@@ -1,28 +1,18 @@
-## Hi, I am Rachel Ho! 👋
-
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
-👩🏻‍🎓 Studied Computer Science at the University of Adelaide, Australia <br/>
-🎨 Making videos about Computer Science, tech, and productivity on YouTube <br/>
-🌷 #learninginpublic in my digital garden <br/>
-💭 Currently learning about data analytics and dataviz! <br/>
-
-
-- 🔭 I’m currently working on **competitive programming challenges and web applications.**
-- 🌱 I’m currently learning **advanced data structures, algorithms, and full-stack development.**
-- 👯 I’m looking to collaborate on **open-source projects, hackathons, and research opportunities.**
-- 🤔 I’m looking for help with ...
-- 📫 Contact me: **rachelho2307@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/ngoc-thanh-uyen-ho/](https://www.linkedin.com/in/ngoc-thanh-uyen-ho/)
-- 😄 Pronouns: she/hers
-- ⚡ Fun fact: ...
-
-
 <h1 align="center">Hi 👋, I'm Rachel Ho 👩🏻‍💻</h1>
 <h3 align="center">A third-year Computer Science student aspiring to be a Software Engineer</h3>
 
-🔭 I’m currently working on [nfvd](vdfvd)
-🌱 I’m currently learning ...
+<h2 align="left">About Me</h2>
+🔭 I’m currently working on competitive programming contests and full-stack applications projects. </br>
+🌱 I’m currently learning full-stack development including: React, React Native, Threejs, Nextjs, Firebase, AWS, Azure, Django. </br>
+👯 I’m looking to collaborate on open-source projects, hackathons, unihacks and internship opportunities.</br>
+👩🏻‍💻 My Portfolio: [] </br>
+👩🏻‍💻 All of my Projects: </br>
+- ☔️ Weather Forecase Website: [] </br>
+- ☘️ To-do List Applications: [] </br>
 
+📫 Contact me: rachelho2307@gmail.com </br>
+📄 Know about my experiences [https://www.linkedin.com/in/ngoc-thanh-uyen-ho/](https://www.linkedin.com/in/ngoc-thanh-uyen-ho/) </br>
+😄 Pronouns: she/hers </br>
 
 
 
