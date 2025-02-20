@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I am Rachel Ho! 👋
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
+👩🏻‍🎓 Studied Computer Science at the University of Adelaide, Australia <br/>
+🎨 Making videos about Computer Science, tech, and productivity on YouTube <br/>
+🌷 #learninginpublic in my digital garden <br/>
+💭 Currently learning about data analytics and dataviz! <br/>
 
 <!--
 **rachelho2307/rachelho2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
