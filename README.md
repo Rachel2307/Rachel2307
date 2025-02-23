@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachel Ho 👩🏻‍💻</h1>
-<h3 align="center">A third-year Computer Science student aspiring to be a Software Engineer</h3>
+<h3 align="center">🌷A third-year Computer Science student aspiring to be a Software Engineer</h3>
 
 <h2 align="left"> 💫 About Me</h2>
 
