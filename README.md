@@ -9,8 +9,8 @@
 👩🏻‍💻 My Portfolio: https://rachelho-responsive-porfolio.netlify.app/ </br>
 🙋🏻‍♀️ All of my Projects: </br>
 - ☔️ Weather Forecase Website: https://skycast-weather-forecast-application.netlify.app/ </br>
-- 👥 Volunteering Website: [] </br>
-- ☘️ To-do List Applications: [] </br>
+- 👥 Volunteering Website:  </br>
+- 👕 Clothing Webiste:  </br>
 
 😄 Pronouns: she/hers </br>
 📫 Contact me: rachelho2307@gmail.com </br>
